@@ -5,3 +5,4 @@ public class RempVO extends Employee {
         super(name, age, phone, empDate, dept, marriage);
     }
 }
+
